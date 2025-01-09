@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=wd0357097&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 **wd0357097/wd0357097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
