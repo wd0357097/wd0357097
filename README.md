@@ -1,5 +1,8 @@
 ## Hi there 🐢
 
+<div align="center">
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="600" height="300"/>
+</div>
 <!--
 **wd0357097/wd0357097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
